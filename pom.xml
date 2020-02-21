@@ -26,7 +26,7 @@
     </parent>
 
     <description>
-        父工程 ,所有的工程继承该父工程,目的:统一版本的控制
+        父工程 ,所有的工程继承该父工程,目的:统一版本的控制a
     </description>
 
     <properties>
